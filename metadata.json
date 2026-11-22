@@ -1,0 +1,6 @@
+{
+  "name": "DailyFix",
+  "description": "Smart everyday calculators and useful tools in one simple app.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

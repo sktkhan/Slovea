@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DailyFix</string>
+    <string name="app_subtitle">Smart Everyday Tools</string>
+    <string name="app_description">Smart everyday calculators and useful tools in one simple app.</string>
+    <string name="admob_app_id">ca-app-pub-3781293651763401~4637525567</string>
+    <string name="privacy_policy_url">https://dailyfix.smarttools.app/privacy-policy</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_tools">Tools</string>
+    <string name="nav_history">History</string>
+    <string name="nav_settings">Settings</string>
+    <string name="cd_navigate_back">Navigate back</string>
+    <string name="cd_toggle_favorite">Toggle favorite</string>
+    <string name="cd_clear_history">Clear history</string>
+    <string name="cd_delete_item">Delete item</string>
+    <string name="cd_swap_units">Swap units</string>
+    <string name="cd_hero_banner">DailyFix smart everyday utility tools banner</string>
+
+    <!-- Disclaimers & Notices -->
+    <string name="bmi_disclaimer">BMI is a general screening measurement, not a medical diagnosis. Consult a healthcare professional for personalized health advice.</string>
+    <string name="loan_disclaimer">Results are estimates for informational purposes only. Actual loan terms, fees, and payments may vary by lender.</string>
+    <string name="local_calc_notice">All calculations are performed locally on your device and work offline without an internet connection.</string>
+</resources>
